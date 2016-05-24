@@ -1,6 +1,6 @@
 (defproject cassandra-flambo-read-write "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Basic example of using flambo and the spark cassandra connector"
+  :url "https://github.com/joshrotenberg/cassandra-flambo-read-write"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
